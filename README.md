@@ -28,4 +28,5 @@
 
 ## Напишите мне&#128071;
 <p align="left">
-<img src="https://devicons.railway.app/i/telegram.svg" alt="tg" width="70" height="70"/>
+<a href="https://t.me/lexstronger" target="_blank"><img align="center" src="https://devicons.railway.app/i/telegram.svg" alt="tg" height="60" width="60" /></a>
+</p>
