@@ -25,3 +25,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
 </p>
+
+## Напишите мне&#128071;
+<p align="left">
+<img src="https://devicons.railway.app/i/telegram.svg" alt="tg" width="70" height="70"/>
