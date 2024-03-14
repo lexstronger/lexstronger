@@ -22,5 +22,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-line-wordmark.svg" alt="eslint" width="50" height="50"/>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
 </p>
