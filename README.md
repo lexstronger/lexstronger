@@ -29,5 +29,5 @@
 ## Напишите мне &#128071;
 <p align="left">
 <a href="https://t.me/lex_stronger" target="_blank"><img align="center" src="https://devicons.railway.app/i/telegram.svg" alt="tg" height="60" width="60" /></a>
-<a href="https://vk.com/lex_stronger" target="_blank"><img align="center" src="https://icons8.com/icon/13977/vk-com" alt="vk" height="60" width="60" /></a>
+<a href="https://vk.com/lex_stronger" target="_blank"><img align="center" src="https://icons8.ru/icon/13977/vk-com" alt="vk" height="60" width="60" /></a>
 </p>
